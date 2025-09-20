@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hammad_khan_710" target="blank"><img src="https://img.shields.io/twitter/follow/hammad_khan_710?logo=twitter&style=for-the-badge" alt="hammad_khan_710" /></a> </p>
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 Im curently doing flutter 
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
