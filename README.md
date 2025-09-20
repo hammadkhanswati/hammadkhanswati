@@ -8,13 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/hammad_khan_710" target="blank"><img src="https://img.shields.io/twitter/follow/hammad_khan_710?logo=twitter&style=for-the-badge" alt="hammad_khan_710" /></a> </p>
 
-- 🌱 Im curently doing flutter 
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hammad-khan-1275b82a3?     utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
-- ⚡ Fun fact **I think I'm funny😎**
+- 🌱 I’m currently learning **Flutter**  
+- 👨‍🎓 I completed **FCS in Pre-Engineering** and now pursuing **BS in Computer Science** from *Government Post Graduate College Mansehra, Pakistan*  
+- 💼 I have been working remotely for the past **2 years** with **Tekkys E-Commerce Company, Wah Cantt** as a **Marketing Associate**  
+- 👨‍💻 All of my projects are available at [LinkedIn](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- ⚡ Fun fact: **I think I'm funny 😎**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
