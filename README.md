@@ -1,6 +1,7 @@
 ![logo](https://github.com/hammadkhanswati/hammadkhanswati/blob/main/Black%20Green%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hammad Khan</h1>
-<h3 align="center">A passionate Cybersecurity analyst from Pakistan</h3>
+<h3 align="center">I’m **Hammad Khan**, a **passionate Cybersecurity Analyst from Pakistan** 🇵🇰 and proudly known as a **Digital Mazdoor** — a hardworking soul in the digital world.  
+From **coding to creativity**, from **cybersecurity to design**, I believe in *earning through skills and building through passion*. </h3>
 <h5 align="center">#letsconnect</h5>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
