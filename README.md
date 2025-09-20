@@ -71,6 +71,9 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://tse1.mm.bing.net/th/id/OIP.Qakfor-6YBLiUllsDD_aTgHaHa?pid=Api&P=0&h=220" alt="canva" width="40" height="40"/> 
   </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+</a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> 
   </a>
