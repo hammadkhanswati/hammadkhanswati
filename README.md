@@ -57,7 +57,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303263/web-development.svg" alt="web development" width="40" height="40"/> 
+    <img src="https://tse3.mm.bing.net/th/id/OIP.wI_Y1AGKiKhLbBrH1_7shAHaE9?pid=Api&P=0&h=220" alt="web development" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
@@ -68,7 +68,14 @@
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canva_Logo.png" alt="canva" width="40" height="40"/> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> 
+  </a>
 </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadkhanswati&show_icons=true&locale=en&layout=compact" alt="hammadkhanswati" /></p>
 
