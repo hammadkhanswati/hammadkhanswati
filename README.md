@@ -16,12 +16,24 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - ⚡ Fun fact: **I think I'm funny 😎**  
 
+---
+
+<h3 align="center">☕ Support Me</h3>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=green" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hammad_khan_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hammad_khan_710" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hammad-khan-1275b82a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://fb.com/hammad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hammad khan" height="30" width="40" /></a>
-<a href="https://instagram.com/hammad_khan_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hammad_khan_710" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hammad-khan-1275b82a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://fb.com/hammad khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
+<a href="https://instagram.com/hammad_khan_710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,9 +68,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web" target="_blank" rel="noreferrer"> 
-    <img src="https://tse3.mm.bing.net/th/id/OIP.wI_Y1AGKiKhLbBrH1_7shAHaE9?pid=Api&P=0&h=220" alt="web development" width="40" height="40"/> 
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -69,19 +78,19 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://tse1.mm.bing.net/th/id/OIP.Qakfor-6YBLiUllsDD_aTgHaHa?pid=Api&P=0&h=220" alt="canva" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/> 
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
-</a>
+  </a>
   <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="kali linux" width="40" height="40"/> 
   </a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammadkhanswati&show_icons=true&locale=en&layout=compact" alt="hammadkhanswati" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammadkhanswati&show_icons=true&locale=en" alt="hammadkhanswati" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammadkhanswati&" alt="hammadkhanswati" /></p>
+
