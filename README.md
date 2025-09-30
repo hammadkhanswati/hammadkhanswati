@@ -17,12 +17,12 @@
 - ⚡ Fun fact: **I think I'm funny 😎**  
 
 ---
-
-<h3 align="center">☕ Support Me</h3>
-
+<h3 align="center" style="color:white; font-family:monospace; text-shadow:0 0 5px royalblue, 0 0 10px brown;">
+  ☕ Buy Me a Coffee
+</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/YOURUSERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=green" alt="Buy Me A Coffee" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="60" width="220" style="border-radius:15px; box-shadow:0 0 10px royalblue, 0 0 20px brown;" />
   </a>
 </p>
 
