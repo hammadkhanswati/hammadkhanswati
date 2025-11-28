@@ -78,7 +78,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="canva" width="40" height="40"/> 
+    <img src="https://www.vecteezy.com/png/32329171-canva-icon-logo-symbol" alt="canva" width="40" height="40"/> 
   </a>
   <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
